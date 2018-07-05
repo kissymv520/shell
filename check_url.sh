@@ -1,10 +1,10 @@
 #!/bin/bash
 ###################################################################
-#Script Name    :                                                                                              
+#Script Name    :check_url.sh                                                                                              
 #Description    :                                                                                 
-#Args           :                                                                                                   
-#Author         :tby                                                               
-#Email          :464891809@qq.com                                         
+#Args           :检测url                                                                                                  
+#Author         :kissymv                                                              
+#Email          :kissymv@gmail.com                                         
 ###################################################################
 # this scripts is test 
 . /etc/init.d/functions
